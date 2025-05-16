@@ -58,7 +58,7 @@ instrucciones = \"{instructions}\"
 consejos = [
     "Pro tip: Presiona Ctrl + C para terminar la práctica en cualquier momento",
     "Pro tip: Presiona ⊞ Windows + Ctrl + ⇧ Shift + Alt + L si ocupas revisar LinkedIn",
-    "Pro tip: Puedes escribir solamente \".\" si quieres introducir la línea previa como respuesta",
+    "Pro tip: Puedes escribir solamente \\\".\\\" si quieres introducir la línea previa como respuesta",
     "Pro tip: Venus es el planeta más caliente del sistema solar",
     "Pro tip: Si te sientes frustrado, toma un descanso de 5 minutos antes de continuar",
     "Pro tip: Me quedé sin consejos que dar. ¡Buena suerte! ^_^"
